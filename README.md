@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Mern, Java ,Redux**
 
-- 👨‍💻 All of my projects are available at [https://port-folio-liard-eight.vercel.app/](https://maheshchaudhary.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://maheshchaudhary.vercel.app/](https://maheshchaudhary.vercel.app/)
 
 - 📫 How to reach me **maheshchoudhary0603@gmail.com**
 
