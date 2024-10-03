@@ -3,6 +3,7 @@
 <h3 align="left">A passionate Software developer</h3>
 <img align="right" alt="Coding" width="300" src="https://img.freepik.com/premium-photo/web-developer-digital-avatar-generative-ai_934475-9048.jpg">
 
+![cover-photo](https://github.com/user-attachments/assets/c166ba23-07bb-45f7-bef1-4db5ea77c1d4)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maheshchoudhary063&label=Profile%20views&color=0e75b6&style=flat" alt="maheshchoudhary063" /> </p>
 
